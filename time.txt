@@ -1,0 +1,2 @@
+File Odata2019File.csv done. Execution time - 112.66094899177551 sec.
+File Odata2020File.csv done. Execution time - 130.2084038257599 sec.
