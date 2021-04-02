@@ -12,7 +12,7 @@ sql_query = '''
         round(avg(UkrBall),3)
         
     FROM zno 
-    WHERE physTestStatus = 'Зараховано' 
+    WHERE UkrTestStatus = 'Зараховано' 
     GROUP BY zno_year, REGNAME
 '''
 
